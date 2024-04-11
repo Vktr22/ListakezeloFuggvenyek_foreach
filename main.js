@@ -19,6 +19,7 @@ berendezzük a listát, és megjelenítjük újra a táblázatot
 5. sorTorles(lista, index) - minden sor végén legyen egy kuka, az adott sor indexével,
 erre a kukára kattintva töröljük az adott sort a listából,
 és újra megjelenítjük a táblázatot a módosult listával.
-6. szuresNevSzerint() - a szűrőbe írt szó alapján kilistázza azokat az adatokat a listából,
-amelyekben szerepel a név mezőjébe az adott szó
+6. szuresNevSzerint(lista, szurtSzoveg)->szurtLista - a szűrőbe írt szó alapján kilistázza azokat az adatokat a listából,
+amelyekben szerepel a név mezőjébe az adott szó.
+Ezután megjelenítjük a szűrt listát az oldalon. Akkor fog lefutni, amikor megváltozik a szűrő mező tartalma
 */
